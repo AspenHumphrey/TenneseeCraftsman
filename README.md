@@ -5,6 +5,8 @@
 ## Goals:
 The goal of this redesign is to keep my vanilla JavaScript sharp! I am using vanilla JS, HTML, and Bootstrap CSS to make a new website for my father's carpentry buisness. I want the website to reflect his work. Sleek, smooth, and elegant. 
 
+I am wanting to emphesize on my styling and user story on this project. Eventually I would like to add a customer data base so my dad is able to have his file system at his fingertips!
+
 ## Technologies:
 HTML, Bootstrap 4, CSS, Javascript
 
